@@ -1,3 +1,6 @@
-membuat aplikasi kalkulator berbasis web
-seperti dibawah ini:
+# Membuat aplikasi kalkulator berbasis web
+tampilan seperti dibawah ini:
+
+
+
 ![calculator](calculator.png)
